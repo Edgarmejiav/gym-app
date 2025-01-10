@@ -1,7 +1,7 @@
 export const exercises = {
     benchPress: {
         name: "Bench Press",
-        imageUrl: "https://example.com/images/bench_press.jpg"
+        imageUrl: "https://www.anytimefitness.com/wp-content/uploads/2024/01/AF-HERO_BenchPress-1024x683.jpg"
     },
     inclineBenchPress: {
         name: "Incline Bench Press",
